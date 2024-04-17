@@ -3,10 +3,10 @@
 # Table of Contents
 # Portfolio Project
 ## Seattle Airbnb Data Analysis
-Code: https://www.kaggle.com/code/leavuong/seattle-airbnb-data-analysis
-Description:
-Skills: 
+Code: https://www.kaggle.com/code/leavuong/seattle-airbnb-data-analysis <br>
+Description: Explore Seattle Airbnb data to understand pricing trends, occupancy rates, and factors affecting rental demand. Analyze data using Python and popular libraries like Pandas, NumPy, and Seaborn. Gain insights through visualizations and statistical analysis, empowering property owners and renters to make informed decisions. <br>
+Skills: Data analysis, statistical analysis, data visualization, storytelling with data. <br>
 Technology: Python, Pandas, Numpy, Scipy Stats, Seaborn, Matplotlib.
-Results: 
+Results: Analyzed pricing trends, occupancy rates, and factors influencing rental demand in Seattle Airbnb listings. Visualizations and insights provided to aid in decision-making for property owners and potential renters. <br>
 
 
