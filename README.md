@@ -1,5 +1,7 @@
 # Data-Analysis-Portfolio
 # About Me
+Hello everyone, my name is Eleana. I have a technical background with a Bachelor's degree in Computer Science. Currently, I'm pursuing a Master's in Data Science at the University of Texas at Austin with the goal of becoming a Data Analyst/Data Scientist. I enjoy solving problems and like the idea of turning data into something meaningful that can impact our world. Whether it's unraveling patterns in complex datasets or devising predictive models, I'm passionate about leveraging data to drive positive change. <br> <br>
+On this GitHub repository, I showcase projects that not only sharpen my skills but also reflect the subjects I enjoy working with. <br>
 # Table of Contents
 - [About Me](#about-me)
 - [Portfolio Projects](#portfolio-projects)
